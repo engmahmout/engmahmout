@@ -11,4 +11,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=engmahmout&theme=blue-green&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engmahmout&layout=compact)](https://github.com/engmahmout/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=engmahmout&theme=blue-green)](https://git.io/streak-stats)
